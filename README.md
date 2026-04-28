@@ -4,7 +4,7 @@
 WorldCupPal is an AI chatbot built using Zapier AI that answers FIFA World Cup questions.
 
 ## 🔗 Live Bot
-(Insert your Zapier bot link here)
+https://worldcupal.zapier.app
 
 ## 🧠 Features
 - Answers FIFA World Cup questions
